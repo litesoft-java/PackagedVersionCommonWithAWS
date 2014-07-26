@@ -1,0 +1,13 @@
+jar: PackagedVersionCommonWithAWS
+
+resources: 
+- LICENSE
+
+dependencies:
+- ../LiteSoftAWS
+- ../PackagedVersionCommon
+
+classpath:
+- ../LiteSoftServerUtils/libs|**.jar
+- ../LiteSoftAWS/libs|**.jar
+
