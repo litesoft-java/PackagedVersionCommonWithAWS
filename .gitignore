@@ -2,3 +2,4 @@
 *.iws
 build
 out
+/PackagedVersionCommonWithAWS.jar
